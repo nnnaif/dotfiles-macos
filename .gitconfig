@@ -1,0 +1,8 @@
+[color]
+	ui = auto
+[core]
+	editor = nano
+[user]
+    useConfigOnly = true
+[include]
+    path = ~/.gitconfig.local
